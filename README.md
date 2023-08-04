@@ -37,5 +37,3 @@ Usage Instructions: Provide a step-by-step guide on how to use the code. Describ
    This will execute both Part1.py and Part2.py in sequence.
 
 
-
-With this README and `.gitignore`, your Git repository will be well-documented and organized.
